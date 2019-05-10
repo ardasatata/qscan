@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>8447C898-C438-404C-9C7D-9B2048B6C14D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8447C898-C438-404C-9C7D-9B2048B6C14D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>qscan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>qscan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project qscan with scheme qscan and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>579118686.54438698</real>
+			<key>timeStoppedRecording</key>
+			<real>579118687.63190699</real>
+			<key>title</key>
+			<string>Building project qscan with scheme qscan and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8447C898-C438-404C-9C7D-9B2048B6C14D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
